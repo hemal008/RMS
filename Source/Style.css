@@ -1,0 +1,17 @@
+body{
+    background-image: url('../Train.jpg') ;
+   background-attachment: fixed;
+   background-size: auto;
+}
+
+.heading h1{
+    color: blueviolet;
+    font-weight: 600;
+    text-align: center;
+    font-size: 55px;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+

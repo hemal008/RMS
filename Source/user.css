@@ -1,0 +1,148 @@
+body{
+    background-image: url('../Train6.jpg') ;
+   background-attachment: fixed;
+   background-size: auto;
+}
+
+.Tour{
+    width: 300px;
+    height: 440px;
+    background-color: #0e0d0d;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: white;
+    opacity: 0.90;
+    text-align: center;
+}
+
+.Tour h1{
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: white;
+    
+  
+  }
+
+  .Tour label{
+    text-align: left;
+    padding-right: 10px;
+    font-family: sans-serif;
+    color: white;
+  }
+
+
+  .Tour select{
+    width: 200px;
+    height: 42px;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px auto;
+  }
+
+  .Tour input[type = "date"]{
+    width: 200px;
+    height: 40px;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px auto;
+  }
+  .Tour input[type = "submit"]{
+    width: 80px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 700;
+    cursor: pointer;
+    margin: 10px auto;
+  }
+
+  .Tour input[type = "submit"]:hover{
+    background-color:  #48C9B0;
+  }
+
+
+  .ticket{
+    width: 450px;
+    height: 500px;
+    background-color: #0e0d0d;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: white;
+    opacity: 0.90;
+    text-align: center;
+}
+
+
+.ticket label{
+  text-align: left;
+  padding-right: 10px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.ticket h1{
+  font-size: 28px;
+  font-family: sans-serif;
+  font-weight: 800;
+  color: white;
+  
+}
+
+.ticket input[type = "text"]{
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 10px auto;
+}
+
+.ticket input[type = "date"]{
+  width: 200px;
+    height: 42px;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px auto;
+}
+
+.ticket input[type = "number"]{
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 10px auto;
+}
+.ticket input[type = "submit"]{
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 10px auto;
+}
+
+.ticket input[type = "submit"]:hover{
+  background-color:  #48C9B0;
+}
